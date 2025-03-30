@@ -8,4 +8,4 @@ Build the project the following way
 
 - Make edits to custom config file
 
-- Add the plugin elements to the CSS
+- Add the plugin elements to the CSS .
